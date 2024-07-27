@@ -4,7 +4,7 @@ const Loader = () => {
   return (
     <div className={Styles.loader_container}>
       <div className={Styles.loader}></div>
-      <p>jfalkjfajfjeijeajf;</p>
+      <p>LatfiaPlug</p>
     </div>
   );
 };
